@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Vicky Patil 👋
+### AI & Machine Learning Engineer | Agentic Workflows & Full-Stack Systems
 
-<!--
-**Vicky-code180/Vicky-code180** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in designing machine learning pipelines, explainable AI architectures, and intelligent agentic workflows. Passionate about building end-to-end, production-ready applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technical Stack
+
+* **Languages:** Python, Java, JavaScript, SQL
+* **AI / ML & NLP:** PyTorch, Scikit-learn, BERT, NLTK, TF-IDF, LLM Tool Calling
+* **Backend & APIs:** FastAPI, Spring Boot, Node.js, REST APIs
+* **Frontend & Web:** React, HTML5, CSS3, Tailwind
+* **Tools & Automation:** Docker, Git, n8n Automation, Streamlit, Linux
+
+---
+
+### 💡 Core Architectural Highlights
+
+* **Explainable AI Cyber Threat Detection:** Real-time hybrid ML threat detection framework using BERT, Random Forest, and TF-IDF with interactive Streamlit telemetry.
+* **Autonomous Workflow Pipelines:** Multi-agent orchestration systems built with n8n and language model tool execution.
+* **Contextual Conversational AI:** Retrieval-based conversational bot powered by TF-IDF vectorization and cosine similarity scoring.
+
+---
+
+### 🌐 Connect With Me
+* **LinkedIn:** linkedin.com/in/vicky-patil-566279331
